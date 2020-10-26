@@ -1,0 +1,10 @@
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\bin\Debug\FromComponentTesting.exe.config
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\bin\Debug\FromComponentTesting.exe
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\bin\Debug\FromComponentTesting.pdb
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\obj\Debug\FromComponentTesting.csprojAssemblyReference.cache
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\obj\Debug\FromComponentTesting.Form1.resources
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\obj\Debug\FromComponentTesting.Properties.Resources.resources
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\obj\Debug\FromComponentTesting.csproj.GenerateResource.cache
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\obj\Debug\FromComponentTesting.csproj.CoreCompileInputs.cache
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\obj\Debug\FromComponentTesting.exe
+C:\Users\cwittich\source\repos\FromComponentTesting\FromComponentTesting\obj\Debug\FromComponentTesting.pdb
